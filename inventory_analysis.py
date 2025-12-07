@@ -3,7 +3,6 @@ Retail Performance Analysis - Inventory Turnover Ratio
 Author: 22f3003001@ds.study.iitm.ac.in
 Generated with LLM assistance for data-driven strategic decision making
 """
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
